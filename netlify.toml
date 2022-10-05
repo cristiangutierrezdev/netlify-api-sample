@@ -1,7 +1,7 @@
 [build]
-    functions="./"
+    functions="functions"
 
 [[redirects]]
-    to="/.netlify/index"
+    to="/.netlify/functions/index"
     from="/*"
     status=200 
