@@ -9,7 +9,7 @@
     "start": "node src/index.js",
     "build": "netlify deploy --prod"
   },
-  "keywords": [],
+  "keywords": ["hola"],
   "author": "",
   "license": "ISC",
   "dependencies": {
